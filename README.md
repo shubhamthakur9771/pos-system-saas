@@ -1,6 +1,6 @@
 <div align="center">
 
-# POS System POS
+# POS System — SaaS Point of Sale & Retail Management Platform
 
 ### A modern, multi-role Point of Sale & retail operations platform
 
@@ -8,7 +8,7 @@ Manage stores, branches, products, inventory, employees, orders, payments, and s
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20POS System%20POS-635BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://pos-system-saas.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20POS%20System-635BFF?style=for-the-badge&logo=vercel&logoColor=white)](https://pos-system-saas.vercel.app/)
 [![React](https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -461,7 +461,7 @@ Learn more: [Choose an open-source license](https://choosealicense.com/).
 
 <div align="center">
 
-### POS System POS
+### POS System — SaaS Point of Sale & Retail Management Platform
 
 **Simplifying point-of-sale and retail operations.**
 
