@@ -1,0 +1,42 @@
+spring:
+  application:
+    name: pos-system
+
+  datasource:
+    url: ${DB_URL}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: false
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ${MAIL_USERNAME}
+    password: ${MAIL_PASSWORD}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+server:
+  port: ${PORT:8080}
+
+razorpay:
+  api:
+    key: test_key
+    secret: test_secret
+
+stripe:
+  api:
+    key: test_stripe
+
+app:
+  frontend:
+    reset-url: ${FRONTEND_RESET_URL}
